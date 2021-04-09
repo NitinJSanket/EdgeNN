@@ -3,4 +3,4 @@ Tested on USB 3.0
 | Image size  |      Filters in subsequent layers    | Num output channels  |  FPS | NumParams | NumFLOPs | 
 |----------|:-------------:|------:|------:|------:| ------:|
 | 1 x 256 x 256 x 6 | [32,64,128,256] | 2 | 38.7 |  |  |
-| 1 x 512 x 512 x 6 | [16,32,64,128] | 8 | 3.6 |  |  | 
+| 1 x 512 x 512 x 6 | [32,64,128,256] | 8 | 3.6 |  |  | 
