@@ -1,4 +1,4 @@
-Tested on USB 3.0
+Tested on USB 2.0 on a PC with Intel i7 and Titan Xp.
 
 | Image size  |      Filters in subsequent layers    | Num output channels  |  FPS | NumParams | NumFLOPs | 
 |----------|:-------------:|------:|------:|------:| ------:|
